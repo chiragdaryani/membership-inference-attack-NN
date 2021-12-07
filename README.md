@@ -13,13 +13,9 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 
 * `Attack1-TrainingSize_and_attack model_variation.ipynb` : Implementation of complete membership attack, analysis of change in training size of target model and change in attack model architecture
 
-* `Attack2-No_of_Classes_variation.ipynb`
+* `Attack2-No_of_Classes_variation.ipynb` : Analysis of change in number of output classes of the target model.
 
-Analysis of change in number of output classes of the target model.
-
-* `Attack3-Overfitting_and_Dropout.ipynb`
-
-Analysis of effect of overfitting and regularization techniques like dropout.
+* `Attack3-Overfitting_and_Dropout.ipynb` : Analysis of effect of overfitting and regularization techniques like dropout.
 
 **Note:**
 **All these notebooks can be executed on Google Colab**
