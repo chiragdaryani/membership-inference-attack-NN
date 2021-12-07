@@ -23,7 +23,7 @@ Analysis of change in number of output classes of the target model.
 
 Analysis of effect of overfitting and regularization techniques like dropout.
 
-** All these notebooks can be executed on Google Colab **
+**All these notebooks can be executed on Google Colab**
 
 ## References
 
