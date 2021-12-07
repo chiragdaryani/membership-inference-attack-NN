@@ -11,11 +11,11 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 
 ## Code Files
 
-1.Attack1-TrainingSize_and_attack model_variation.ipynb
+Attack1-TrainingSize_and_attack model_variation.ipynb
 
-2.Attack2-No_of_Classes_variation.ipynb
+Attack2-No_of_Classes_variation.ipynb
 
-3.Attack3-Overfitting_and_Dropout.ipynb
+Attack3-Overfitting_and_Dropout.ipynb
 
 ## References
 
