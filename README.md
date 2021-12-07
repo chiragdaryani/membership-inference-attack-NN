@@ -17,7 +17,7 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 
 * `Attack3-Overfitting_and_Dropout.ipynb` : Analysis of effect of overfitting and regularization techniques like dropout.
 
-**Note:**
+Note:
 **All these notebooks can be executed on Google Colab**
 
 ## References
