@@ -21,7 +21,7 @@ Analysis of change in number of output classes of the target model.
 
 * `Attack3-Overfitting_and_Dropout.ipynb`
 
-Analysis of change in number of output classes of the target model.
+Analysis of effect of overfitting and regularization techniques like dropout.
 
 ## References
 
