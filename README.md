@@ -12,7 +12,9 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 ## Code Files
 
 1.Effect_of_Changing_Attack_Model_Architecture.ipynb
+
 2.Effect_of_Changing_No_of_Classes.ipynb
+
 3.Effect_of_Overfitting_and_Dropout.ipynb
 
 ## References
