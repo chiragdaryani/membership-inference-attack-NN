@@ -11,9 +11,7 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 
 ## Code Files
 
-* `Attack1-TrainingSize_and_attack model_variation.ipynb`
-
-Implementation of complete membership attack, analysis of change in training size of target model and change in attack model architecture
+* `Attack1-TrainingSize_and_attack model_variation.ipynb` : Implementation of complete membership attack, analysis of change in training size of target model and change in attack model architecture
 
 * `Attack2-No_of_Classes_variation.ipynb`
 
