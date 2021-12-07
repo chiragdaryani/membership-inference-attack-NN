@@ -17,3 +17,6 @@ For the implementation of this attack, we are following the Shadow Model Trainin
 4.
 
 ## References
+
+https://cloudxlab.com/blog/fashion-mnist-using-deep-learning-with-tensorflow-keras/
+https://github.com/cloudxlab/ml/blob/master/projects/Fashion-MNIST/Fashion-MNIST-DL-Keras.ipynb
