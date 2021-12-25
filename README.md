@@ -3,12 +3,6 @@
 In this project, we are implementing the membership inference attack on a neural network model built on the Fashion MNIST image dataset. 
 For the implementation of this attack, we are following the Shadow Model Training technique proposed by Shokri et al.  
 
-## Team
-|Student name| CCID |
-|------------|------|
-|Chirag Daryani   |  cdaryani    |
-|Karan Chadha   |  kchadha1    |
-
 ## Code Files
 
 * `Attack1-TrainingSize_and_attack model_variation.ipynb` : Implementation of complete membership attack, analysis of change in training size of target model and change in attack model architecture
